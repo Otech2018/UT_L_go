@@ -33,7 +33,7 @@ class AuthController extends Controller
 
                 Auth::login($create_new_user);
             }else{
-                Auth::login($create_new_user);
+                Auth::login($google_user);
             }
             
            
