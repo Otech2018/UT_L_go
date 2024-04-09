@@ -87,4 +87,4 @@ Visit `http://localhost:8000` in your web browser to see the Ultainfinity-Test L
 
 Now you have successfully cloned the Ultainfinity-Test Laravel project, set up the environment, and tested the application. If you encounter any issues, refer to the project's documentation or seek help from the community.
 
-Happy coding!
+
